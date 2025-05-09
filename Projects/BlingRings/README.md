@@ -63,8 +63,6 @@ The single rotary knob cap was similarly modeled on Fusion but instead 3D printe
 3. Click the three playback buttons to trigger or mute specific components/ stems (vocals, bass/drums, keys) as desired
 4. Use the rotary knob to adjust the delay FX in real-time as desired
 
-# 2-3 minute video demonstrating the project
-
 # Reflection on the project and directions for future work
 For future iterations, we hope to:
 - Add more controls other than just delay (scratch effect, low-pass filter sweeps, beat repeat, or reverb toggles—to allow users to experiment with a wider range of live manipulation techniques)
